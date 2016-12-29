@@ -44,17 +44,6 @@ namespace AutoMapperv4
             stopwatch.Stop();
             Console.WriteLine($"v4 mapping runtime of {number} appointments with related entities is: {stopwatch.Elapsed}");
 
-            //List of objects performing slow
-            //Appointment
-            //Resource
-            //User
-            //Role
-            //Physician
-            //Overcapacity
-            //CallHistory
-            //Availability
-            //AppointmentStatusHistory
-
             var list2 = new List<Entity1>();
             for (int i = 0; i < number; i++)
             {
