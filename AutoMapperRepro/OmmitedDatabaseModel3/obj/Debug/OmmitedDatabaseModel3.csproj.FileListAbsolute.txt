@@ -1,0 +1,5 @@
+E:\Repositories\AutoMapperRepro\AutoMapperRepro\OmmitedDatabaseModel3\bin\Debug\OmmitedDatabaseModel3.dll
+E:\Repositories\AutoMapperRepro\AutoMapperRepro\OmmitedDatabaseModel3\bin\Debug\OmmitedDatabaseModel3.pdb
+E:\Repositories\AutoMapperRepro\AutoMapperRepro\OmmitedDatabaseModel3\obj\Debug\OmmitedDatabaseModel3.dll
+E:\Repositories\AutoMapperRepro\AutoMapperRepro\OmmitedDatabaseModel3\obj\Debug\OmmitedDatabaseModel3.pdb
+E:\Repositories\AutoMapperRepro\AutoMapperRepro\OmmitedDatabaseModel3\obj\Debug\OmmitedDatabaseModel3.csprojResolveAssemblyReference.cache
