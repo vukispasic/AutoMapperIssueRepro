@@ -6,3 +6,11 @@ E:\Repositories\AutoMapperRepro\AutoMapperRepro\Repro\bin\Debug\OmmitedDatabaseM
 E:\Repositories\AutoMapperRepro\AutoMapperRepro\Repro\obj\Debug\Initialize.csprojResolveAssemblyReference.cache
 E:\Repositories\AutoMapperRepro\AutoMapperRepro\Repro\obj\Debug\Repro.dll
 E:\Repositories\AutoMapperRepro\AutoMapperRepro\Repro\obj\Debug\Repro.pdb
+E:\Repositories\AutoMapperReproGit\AutoMapperRepro\Repro\bin\Debug\Repro.dll.config
+E:\Repositories\AutoMapperReproGit\AutoMapperRepro\Repro\bin\Debug\Repro.dll
+E:\Repositories\AutoMapperReproGit\AutoMapperRepro\Repro\bin\Debug\Repro.pdb
+E:\Repositories\AutoMapperReproGit\AutoMapperRepro\Repro\bin\Debug\OmmitedDatabaseModel3.dll
+E:\Repositories\AutoMapperReproGit\AutoMapperRepro\Repro\bin\Debug\OmmitedDatabaseModel3.pdb
+E:\Repositories\AutoMapperReproGit\AutoMapperRepro\Repro\obj\Debug\Initialize.csprojResolveAssemblyReference.cache
+E:\Repositories\AutoMapperReproGit\AutoMapperRepro\Repro\obj\Debug\Repro.dll
+E:\Repositories\AutoMapperReproGit\AutoMapperRepro\Repro\obj\Debug\Repro.pdb
