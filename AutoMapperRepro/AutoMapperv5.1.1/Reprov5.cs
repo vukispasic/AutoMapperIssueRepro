@@ -17,8 +17,9 @@ namespace AutoMapperv5
         public void Run()
         {
             Configure();
-            Map(1);
-            Map(1);
+            //2 elements in a list
+            Map(2);
+            Map(2);
         }
 
         private void Configure()
